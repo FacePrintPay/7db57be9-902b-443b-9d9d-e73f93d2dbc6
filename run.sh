@@ -2,3 +2,5 @@
 echo "🌟 7db57be9-902b-443b-9d9d-e73f93d2dbc6"
 curl -s http://localhost:3000/api/proxy > /dev/null && echo "✅ PATHOS"
 echo "[7db57be9-902b-443b-9d9d-e73f93d2dbc6] $(date)" >> "/data/data/com.termux/files/home/sovereign_gtp/logs/7db57be9-902b-443b-9d9d-e73f93d2dbc6.log"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=run.sh
